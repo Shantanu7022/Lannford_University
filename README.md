@@ -1,7 +1,7 @@
 # Lannford_University
-[Website Link](https://shantanu7022.github.io/Lannford_University/)
+Visit My Website: [Click Here](https://shantanu7022.github.io/Lannford_University/)
 
-Screenshot
+Some Screenshot of this site
 
 ---------------------------------------------------------------------------------------------------------------------
 
